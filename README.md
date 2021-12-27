@@ -25,7 +25,15 @@ $ conda activate mlsec
 ```
 $ pip install notebook
 $ pip install torch torchvision 
- ```
+```
+
+### Optional dependencies
+```
+$ pip install matplotlib
+```
+
+Or just run `!pip install matplotlib` inside the notebook when asked for
+
 ## Initialize the Notebook
 ```
 $ jupyter notebook
