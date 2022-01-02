@@ -29,10 +29,10 @@ $ pip install torch torchvision
 
 ### Optional dependencies
 ```
-$ pip install matplotlib
+$ pip install matplotlib ipynb
 ```
 
-Or just run `!pip install matplotlib` inside the notebook when asked for
+Or just run `!pip install <libname>` for matplotlib and ipynb inside the notebook when asked for
 
 ## Initialize the Notebook
 ```
